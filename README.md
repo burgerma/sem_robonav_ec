@@ -1,4 +1,4 @@
-# Seminar Roboternavigation - Evolutionary Computing
+# Seminar Roboternavigation - Evolutionary Computing :)
 Demonstrator for an ***Evolutionary Algorithm*** with small rocktes trying to evolve towards reaching a marked target
 # Requirements
 Use `pip install -r requirements.txt` to install requirements
